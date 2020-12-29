@@ -1,0 +1,13 @@
+.card{
+    width: 800px;
+    height: 70px;
+    /* align-items: center;
+    align-content: center; */
+    margin: auto;
+}
+
+.card:hover{
+    color: #000000;
+    /* color: #0FBFCC; */
+    box-shadow: 0 0 20px #0FBFCC;
+}
